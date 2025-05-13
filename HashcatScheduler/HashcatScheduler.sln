@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashcatScheduler", "HashcatScheduler\HashcatScheduler.csproj", "{FD1D3022-6852-441F-A502-F23E63249575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD1D3022-6852-441F-A502-F23E63249575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1D3022-6852-441F-A502-F23E63249575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1D3022-6852-441F-A502-F23E63249575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1D3022-6852-441F-A502-F23E63249575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
